@@ -1,0 +1,5 @@
+﻿  main.c
+  user.c
+C:\Users\WX\Desktop\[药房销售系统][链表].C.A.0.S\vs2019\user.c(973,27): warning C4013: “getch”未定义；假设外部返回 int
+C:\Users\WX\Desktop\[药房销售系统][链表].C.A.0.S\vs2019\user.c(1002,18): warning C4013: “Sleep”未定义；假设外部返回 int
+  demo.vcxproj -> C:\Users\WX\Desktop\[药房销售系统][链表].C.A.0.S\vs2019\x64\Debug\demo.exe
